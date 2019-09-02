@@ -1,6 +1,6 @@
 # VENMO – FINTECH CASE STUDY
 
-![Logo](./images/0_logo.png)
+![Logo](../Images/0_logo.png)
 
 ## Overview and Origin
 ### Name of company: 
@@ -17,11 +17,11 @@ Venmo was founded by Andrew Kortina and Iqram Magdon-Ismail, who met as freshman
 ### How did the idea for the company (or project) come about?
 In 2009 Magdon-Ismail was thinking about leaving Ticketleap and wanted to collaborate again with Kortina on business ideas. At this time a mutual friend of theirs was opening a shop in Philadelphia and asked if they could assist with the technology aspect of the set up. They prototyped Point of Sale software to combine a laptop and magnetic credit card reader into a cash register. This experience got the pair interested in payments and gave them an insight into the issues with the current payments system. While attending a concert together they came up with the idea of buying and downloading  songs from the artist simply by sending the band a text message. They gave this idea the name Venmo, an amalgam of vendere, Latin for sell, and mo, short for mobile. This wireframe sketch shows the basic text message music store concept:
 
-![1](https://github.com/WIVIV/HW1__FinTech_Ash/blob/master/Images/1.png)
+![1](Images/1.png)
 
 During a weekend working on this idea in New York, Magdon-Ismail who was visiting from Philadelphia, left his wallet behind and Kortina spotted him during his stay. To pay Kortina back Magdon-Ismail wrote him a check, a process which they found annoying to write and equally as cumbersome to deposit. They agreed that it would have probably been easier to use PayPal to facilitate the P2P payment, however niether of them used it and neither did any of their friends. The pair resolved to try and solve this problem. They built a prototype which used text messages (in a pivot from the music store concept) and a Google Voice account, to receive text messages formatted with an instruction “send $20 to Dave”. The system would then then send a notification to the payment recipient “John sent you $20”. The text message parser was written in Python as per the screen shot below:
 
-![2](https://github.com/WIVIV/HW1__FinTech_Ash/blob/master/Images/2.png)
+![2](./Images/2.png)
 
 The pivot from music to P2P is summarized in this slide from an early company presentation:
 
