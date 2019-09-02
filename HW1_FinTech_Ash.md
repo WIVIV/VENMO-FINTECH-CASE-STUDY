@@ -1,6 +1,6 @@
 # VENMO – FINTECH CASE STUDY
 
-![Logo](../Images/0_logo.png)
+![Logo](Images/0_logo.png)
 
 ## Overview and Origin
 ### Name of company: 
@@ -21,11 +21,11 @@ In 2009 Magdon-Ismail was thinking about leaving Ticketleap and wanted to collab
 
 During a weekend working on this idea in New York, Magdon-Ismail who was visiting from Philadelphia, left his wallet behind and Kortina spotted him during his stay. To pay Kortina back Magdon-Ismail wrote him a check, a process which they found annoying to write and equally as cumbersome to deposit. They agreed that it would have probably been easier to use PayPal to facilitate the P2P payment, however niether of them used it and neither did any of their friends. The pair resolved to try and solve this problem. They built a prototype which used text messages (in a pivot from the music store concept) and a Google Voice account, to receive text messages formatted with an instruction “send $20 to Dave”. The system would then then send a notification to the payment recipient “John sent you $20”. The text message parser was written in Python as per the screen shot below:
 
-![2](./Images/2.png)
+![2](Images/2.png)
 
 The pivot from music to P2P is summarized in this slide from an early company presentation:
 
-![3](https://github.com/WIVIV/HW1__FinTech_Ash/blob/master/Images/3.png)
+![3](Images/3.png)
 
 While iterating their prototype they added a note to the recipient messag to provide context about what the payment was for. The pair quickly realized that this stream of messages could provide rich information about what people were doing and who they were socializing with. Thinking that this social aspect could have wide appeal they added the ability to tag payment narrative messages with #p, which would add them to a public feed on Venmo.com.
 
@@ -43,11 +43,11 @@ Venmo was born out of the frustration that the founders experienced when trying 
 
 Venmo is aimed squarely at Millennials. Millennials are the first digital native generation and as such are early adopters of technology with 9 in 10 Millennials owning a smartphone. Millennials are also a social and open generation, with 85% using social media.
 
-![5](https://github.com/WIVIV/HW1__FinTech_Ash/blob/master/Images/5.png)
+![5](Images/5.png)
 
 Millennials are projected to become the largest demographic in the United States this year as per the chart below. 
 
-![6](https://github.com/WIVIV/HW1__FinTech_Ash/blob/master/Images/6.png)
+![6](Images/6.png)
 
 Whilst the P2P Payments sector has many players Venmo has been able to distinguish itself by incorporating a social dimension. When fist developing Venmo Kortina and Magdon-Ismail realized that the social feed presented rich information on a person’s social circle capturing who they hung out with and what they did together. Making this information shareable across one’s social group and beyond allows people to see who is doing what with whom giving it an almost voyeuristic aspect. This was no doubt key in its early success with Venmo spreading in its early stages largely by word of mouth. The term “I’ll Venmo you” has entered the lexicon of Millennials across the country.
 
@@ -55,7 +55,7 @@ It should be noted that whilst the social news feed element has been a key facto
 
 ### Which technologies are they currently using, and how are they implementing them? 
 
-![7](https://github.com/WIVIV/HW1__FinTech_Ash/blob/master/Images/7.png)
+![7](Images/7.png)
 
 The tech stack is a follows:
 * jQuery - A JavaScript library.
@@ -106,20 +106,20 @@ Venmo has been a huge success since its launch. Having what amounts to a first m
 ###  What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 Total Payments Volume (TPV) is the main metric which is used to assess performance in the P2P Payments sector. Venmo has enjoyed significant growth in the last few years as can be seen in the following chart:
 
-![8](https://github.com/WIVIV/HW1__FinTech_Ash/blob/master/Images/8.png)
+![8](Images/8.png)
 
 Beyond TPV, the amount of revenue generated is also a key measure of success. In Venmo’s early period the company was focused on growing the user base and as such monetization was not a priority. With the recent launch of Instant Transfers, the Venmo Card and Pay with Venmo revenue generation has started to increase. As of 2019 Venmo had 40 million active yearly users and the strategy is to convert free users to monetized users has produced good results over the last couple of years.
 
-![9](https://github.com/WIVIV/HW1__FinTech_Ash/blob/master/Images/9.jpg)
+![9](Images/9.jpg)
 
 ###  How is your company performing relative to competitors in the same domain?
 Venmo’s main competitor in P2P Payments is Zelle. Given Zelle’s advantage of an embedded user base, it has quickly surpassed Venmo since launching. For Q2 2019 Zelle had a TPV of $44B against $24B for Venmo. Zelle’s growth is not occurring at the expense of Venmo however, with both growing strongly over the last 18 months. 
 
-![10](https://github.com/WIVIV/HW1__FinTech_Ash/blob/master/Images/10.jpg)
+![10](Images/10.jpg)
 
 Despite its lead in TPV, Venmo continues to better Zelle for penetration in the key Millennial demographic.
 
-![11](https://github.com/WIVIV/HW1__FinTech_Ash/blob/master/Images/11.png)
+![11](Images/11.png)
 
 With Venmo continuing to innovate to monetize its sizable user base, Zelle’s advantage in terms of pure TPV may be eroded as Venmo becomes more of a fully fledged payment network as opposed to a mere P2P payment provider. 
 
