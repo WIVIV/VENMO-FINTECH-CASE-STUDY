@@ -1,6 +1,6 @@
 # VENMO – FINTECH CASE STUDY
 
-![Logo](https://github.com/WIVIV/HW1__FinTech_Ash/blob/master/Images/0_logo.png)
+![Logo](images/0_logo.png)
 
 ## Overview and Origin
 ### Name of company: 
