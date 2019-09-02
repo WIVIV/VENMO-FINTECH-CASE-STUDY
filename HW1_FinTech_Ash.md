@@ -1,6 +1,6 @@
 # VENMO – FINTECH CASE STUDY
 
-![Logo](images/0_logo.png)
+![Logo](./images/0_logo.png)
 
 ## Overview and Origin
 ### Name of company: 
