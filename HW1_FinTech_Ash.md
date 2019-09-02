@@ -45,6 +45,7 @@ Venmo is aimed squarely at Millennials. Millennials are the first digital native
 
 ![5](Images/5.png)
 
+
 Millennials are projected to become the largest demographic in the United States this year as per the chart below. 
 
 ![6](Images/6.png)
